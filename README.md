@@ -20,5 +20,4 @@ ______________________STEPS TO USE THE DASH APP ___________________________
 7. Click the submit button and view the results at the bottom.
 8. Based on your choices, the graph will show how 'Our Movie' fared against other movies with similar genres
 
-
-__THANK YOU!!!!!!!!!!__
+THANK YOU!
